@@ -1,0 +1,153 @@
+@charset "UTF-8";
+* {
+	
+	margin:0;
+	padding:0;
+}
+#container{
+	margin:auto;
+	width:1440px;
+	height:auto;
+}
+#content_1{
+	margin:auto;
+	width:1440px;
+	height:670px;
+}
+#banner{
+	margin:auto;
+	width:auto;
+	height:720px;
+	
+}
+#baslik{
+	padding-left:25%;
+	padding-right:25%;
+	padding-top:5%;
+	font-size:60px;
+	text-align:center;
+	
+}
+#button{
+	margin-left:370px;
+	font-size:25px;
+	text-align:center;
+	padding-left:10px;
+	padding-right:10px;
+	padding-top:15px;
+	padding-bottom:15px;
+	width:190px;
+	color:white;
+	height:35px;
+	background-color:#d03434;
+	display:block;
+}
+#baslik_2{
+	padding-left:17%;
+	padding-right:17%;
+	padding-top:30px;
+	text-align:center;
+	
+}
+#col-lg-1{
+	padding-left:150px;
+	padding-top:140px;
+	padding-right:150px;
+	font-size:20px;
+	text-align:left;
+	width:575px;
+	height:580px;
+	float:left;
+}
+#col-lg-2{
+	width:565px;
+	height:720px;
+	float:right;
+}
+#alt_baslik{
+	padding-left:250px;
+	padding-right:250px;
+	padding-top:50px;
+	font-size:20px;
+	text-align:center;
+}
+#alt_baslik2{
+	padding-left:400px;
+	padding-right:400px;
+	padding-top:50px;
+	font-size:20px;
+	text-align:center;
+}
+#row{
+	width:1180px;
+	height:280px;
+	padding-left:130px;
+	padding-right:130px;
+	padding-top:100px;
+	padding-bottom:100px;
+}
+#col-md-3{
+	float:left;
+	font-size:20px;
+	text-align:center;
+	width:360px;
+	padding-left:15px;
+	padding-right:15px;
+}
+#col-rg-1{
+	padding-left:150px;
+	padding-top:140px;
+	padding-right:150px;
+	font-size:23px;
+	text-align:left;
+	width:575px;
+	height:580px;
+	float:right;
+}
+#col-rg-2{
+	width:565px;
+	height:720px;
+	float:left;
+}
+#logos{
+	height:265px;
+	width:auto;
+	padding-left:230px;
+	padding-right:230px;
+}
+#col-log-1{
+	width:190px;
+	float:left;
+}
+#alt_resim{
+	height:375px;
+	padding-left:300px;
+	padding-right:300px;
+	padding-top:53px;
+}
+#height1{
+	height:500px;
+	width:auto;
+}
+#height2{
+	height:220px;
+	width:auto;
+}
+#col-4{
+	width:295px;
+	float:left;
+}
+.cool-one {
+width: 250px;
+border: 1px solid #505050;
+background: #3f475f;
+margin: 0 0 5px;
+padding: 8px;
+border-radius: 5px;
+font-size: 13px;
+padding-right: 30px;
+}
+.valid {
+background: #3f475f url(http://picbox.im/image/cba14e57f0-validicon.png) no-repeat 99% 50%;
+background-position: right 6px center;
+}
